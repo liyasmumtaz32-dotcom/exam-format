@@ -1,0 +1,5 @@
+{
+  "name": "ExamFormat AI - Standar Kemendikdasmen",
+  "description": "Aplikasi penyusun soal otomatis standar Kemendikdasmen. Upload atau paste soal mentah, AI merapikan struktur, dan export ke Word (Docx) siap cetak.",
+  "requestFramePermissions": []
+}
